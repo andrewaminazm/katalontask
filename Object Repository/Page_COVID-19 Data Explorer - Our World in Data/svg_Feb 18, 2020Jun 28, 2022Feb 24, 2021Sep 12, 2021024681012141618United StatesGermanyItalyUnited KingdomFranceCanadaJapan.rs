@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan</name>
+   <tag></tag>
+   <elementGuidId>1a0ef65f-bd6d-4fd0-982f-dd09dae664df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//svg[(text() = 'Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan' or . = 'Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan' or . = 'Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>9802fa92-f554-4b36-9805-73bb0ec7e9ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>0f84118a-afd5-4156-ad82-e216b1ace902</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>version</name>
+      <type>Main</type>
+      <value>1.1</value>
+      <webElementGuid>548cf0af-dfa5-4a41-8316-cad834ec3b5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>793</value>
+      <webElementGuid>2e2b036e-b410-4935-9291-69b5c90b4126</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>405</value>
+      <webElementGuid>7d18abe5-5a25-4e42-9bd1-9f2f9935f06f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 793 405</value>
+      <webElementGuid>89d913c4-1cb7-4c14-aaaa-3d0154b4e6ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan</value>
+      <webElementGuid>3fffdda7-5fb8-4408-9ac4-015319eddc11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ExplorerContainer&quot;)/div[@class=&quot;Explorer&quot;]/div[@class=&quot;ExplorerFigure&quot;]/div[@class=&quot;GrapherComponent&quot;]/div[3]/svg[1]</value>
+      <webElementGuid>3bab81ab-dc99-4ed1-ab71-57114319db63</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[(text() = 'Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan' or . = 'Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan')]</value>
+      <webElementGuid>9a8552c5-5e6b-4de6-a656-e1eb77f647c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

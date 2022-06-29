@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_11</name>
+   <tag></tag>
+   <elementGuidId>4815a049-56d7-448f-92e7-ba6bde69c5b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-0']/nb-datepicker-container/nb-overlay-container/nb-calendar/nb-base-calendar/nb-card/nb-card-body/nb-calendar-day-picker/div/nb-calendar-picker/nb-calendar-picker-row[2]/nb-calendar-day-cell[5]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>nb-calendar-day-cell.day-cell.today.selected.ng-star-inserted > div.cell-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cell-content</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 11 </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-0&quot;)/nb-datepicker-container[@class=&quot;nb-overlay-end-top&quot;]/nb-overlay-container[1]/nb-calendar[@class=&quot;ng-star-inserted&quot;]/nb-base-calendar[@class=&quot;has-navigation&quot;]/nb-card[1]/nb-card-body[1]/nb-calendar-day-picker[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;days-container&quot;]/nb-calendar-picker[1]/nb-calendar-picker-row[@class=&quot;ng-star-inserted&quot;]/nb-calendar-day-cell[@class=&quot;day-cell today selected ng-star-inserted&quot;]/div[@class=&quot;cell-content&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-0']/nb-datepicker-container/nb-overlay-container/nb-calendar/nb-base-calendar/nb-card/nb-card-body/nb-calendar-day-picker/div/nb-calendar-picker/nb-calendar-picker-row[2]/nb-calendar-day-cell[5]/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='جمعة'])[1]/following::div[12]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='خميس'])[1]/following::div[13]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='11']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nb-calendar-picker-row[2]/nb-calendar-day-cell[5]/div</value>
+   </webElementXpaths>
+</WebElementEntity>
