@@ -1,0 +1,32 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+tasks,Chrome 102.0.5005.115,,,2022-06-30 01:04:01,2022-06-30 01:05:35,1m - 33.959s,PASSED
+,,,,,,,
+Test Cases/task,Chrome 102.0.5005.115,,,2022-06-30 01:04:01,2022-06-30 01:04:39,38.132s,PASSED
+"openBrowser("""")",Chrome 102.0.5005.115,,,2022-06-30 01:04:01,2022-06-30 01:04:05,3.394s,PASSED
+"navigateToUrl(""https://www.techlistic.com/p/selenium-assignments.html"")",Chrome 102.0.5005.115,,,2022-06-30 01:04:05,2022-06-30 01:04:35,30.193s,PASSED
+maximizeWindow(),Chrome 102.0.5005.115,,,2022-06-30 01:04:35,2022-06-30 01:04:35,0.174s,PASSED
+"mouseOver(findTestObject(""Page_/a_Selenium""))",Chrome 102.0.5005.115,,,2022-06-30 01:04:35,2022-06-30 01:04:36,1.097s,PASSED
+"result = getText(findTestObject(""Page_/a_Selenium with Java""))",Chrome 102.0.5005.115,,,2022-06-30 01:04:36,2022-06-30 01:04:37,0.579s,PASSED
+out.println(result),Chrome 102.0.5005.115,,,2022-06-30 01:04:37,2022-06-30 01:04:37,0.135s,PASSED
+Video,Chrome 102.0.5005.115,,,2022-06-30 01:04:39,2022-06-30 01:04:39,0.000s,PASSED
+,,,,,,,
+Test Cases/task2,Chrome 102.0.5005.115,,,2022-06-30 01:04:39,2022-06-30 01:05:01,22.152s,PASSED
+"openBrowser("""")",Chrome 102.0.5005.115,,,2022-06-30 01:04:39,2022-06-30 01:04:41,1.944s,PASSED
+"navigateToUrl(""http://automationpractice.com/index.php"")",Chrome 102.0.5005.115,,,2022-06-30 01:04:41,2022-06-30 01:04:57,16.008s,PASSED
+maximizeWindow(),Chrome 102.0.5005.115,,,2022-06-30 01:04:57,2022-06-30 01:04:58,0.180s,PASSED
+"verifyElementPresent(findTestObject(""Page_My Store/a_Cart0ProductProducts(empty)""), 0)",Chrome 102.0.5005.115,,,2022-06-30 01:04:58,2022-06-30 01:04:58,0.547s,PASSED
+"verifyElementVisible(findTestObject(""Page_My Store/b_Cart""))",Chrome 102.0.5005.115,,,2022-06-30 01:04:58,2022-06-30 01:04:59,0.585s,PASSED
+"verifyElementVisible(findTestObject(""Page_My Store/span_(empty)""))",Chrome 102.0.5005.115,,,2022-06-30 01:04:59,2022-06-30 01:04:59,0.356s,PASSED
+Video,Chrome 102.0.5005.115,,,2022-06-30 01:05:01,2022-06-30 01:05:01,0.001s,PASSED
+,,,,,,,
+Test Cases/task3,Chrome 102.0.5005.115,,,2022-06-30 01:05:01,2022-06-30 01:05:35,33.387s,PASSED
+"openBrowser("""")",Chrome 102.0.5005.115,,,2022-06-30 01:05:02,2022-06-30 01:05:04,1.886s,PASSED
+"navigateToUrl(""https://ourworldindata.org/explorers/coronavirus-data-explorer"")",Chrome 102.0.5005.115,,,2022-06-30 01:05:04,2022-06-30 01:05:18,14.219s,PASSED
+"click(findTestObject(""Object Repository/Page_COVID-19 Data Explorer - Our World in Data/button_I agree""))",Chrome 102.0.5005.115,,,2022-06-30 01:05:18,2022-06-30 01:05:28,10.531s,PASSED
+"verifyElementVisible(findTestObject(""Page_COVID-19 Data Explorer - Our World in Data/svg_Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan""))",Chrome 102.0.5005.115,,,2022-06-30 01:05:28,2022-06-30 01:05:29,0.397s,PASSED
+"mouseOver(findTestObject(""Page_COVID-19 Data Explorer - Our World in Data/svg_Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan""))",Chrome 102.0.5005.115,,,2022-06-30 01:05:29,2022-06-30 01:05:30,1.834s,PASSED
+"mouseOverOffset(findTestObject(""Page_COVID-19 Data Explorer - Our World in Data/svg_Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan""), 20, 30)",Chrome 102.0.5005.115,,,2022-06-30 01:05:30,2022-06-30 01:05:31,0.584s,PASSED
+"mouseOverOffset(findTestObject(""Page_COVID-19 Data Explorer - Our World in Data/svg_Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan""), 20, 35)",Chrome 102.0.5005.115,,,2022-06-30 01:05:31,2022-06-30 01:05:32,0.470s,PASSED
+"mouseOverOffset(findTestObject(""Page_COVID-19 Data Explorer - Our World in Data/svg_Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan""), 20, 40)",Chrome 102.0.5005.115,,,2022-06-30 01:05:32,2022-06-30 01:05:32,0.460s,PASSED
+"mouseOverOffset(findTestObject(""Page_COVID-19 Data Explorer - Our World in Data/svg_Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan""), 10, 30)",Chrome 102.0.5005.115,,,2022-06-30 01:05:32,2022-06-30 01:05:32,0.456s,PASSED
+Video,Chrome 102.0.5005.115,,,2022-06-30 01:05:35,2022-06-30 01:05:35,0.001s,PASSED

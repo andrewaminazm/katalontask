@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="tasks" time="93.959" tests="3" failures="0" errors="0">
+   <testsuite name="tasks" tests="3" failures="0" errors="0" time="93.959" skipped="0" timestamp="2022-06-30 01:04:01" hostname="pc - 192.168.1.12" id="Test Suites/tasks">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\pc\\Katalon Studio\\task\\Reports\\20220630_010353\\tasks\\20220630_010353"/>
+         <property name="logFiles" value="C:\\Users\\pc\\Katalon Studio\\task\\Reports\\20220630_010353\\tasks\\20220630_010353\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="pc - 192.168.1.12"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.3.5.208"/>
+         <property name="browser" value="Chrome 102.0.5005.115"/>
+         <property name="hostAddress" value="192.168.1.12"/>
+         <property name="sessionId" value="a32405e4b6675706f7ac66f1ac549985"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/task" time="38.132" classname="Test Cases/task" status="PASSED">
+         <system-out><![CDATA[2022-06-30 01:04:01 - [TEST_CASE][PASSED] - Test Cases/task: Test Cases/task
+
+2022-06-30 01:04:01 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-06-30 01:04:02 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-06-30 01:04:02 - [MESSAGE][INFO] - Action delay is set to 10,000 milliseconds
+
+2022-06-30 01:04:05 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-06-30 01:04:05 - [TEST_STEP][PASSED] - navigateToUrl("https://www.techlistic.com/p/selenium-assignments.html"): Navigate to 'https://www.techlistic.com/p/selenium-assignments.html' successfully
+
+2022-06-30 01:04:35 - [MESSAGE][PASSED] - Navigate to 'https://www.techlistic.com/p/selenium-assignments.html' successfully
+
+2022-06-30 01:04:35 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-06-30 01:04:35 - [MESSAGE][PASSED] - Current window maximized
+
+2022-06-30 01:04:35 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Page_/a_Selenium")): Object: 'Object Repository/Page_/a_Selenium' is hovered
+
+2022-06-30 01:04:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_/a_Selenium' is hovered
+
+2022-06-30 01:04:36 - [TEST_STEP][PASSED] - result = getText(findTestObject("Page_/a_Selenium with Java")): Text of object 'Object Repository/Page_/a_Selenium with Java' is: 'SELENIUM WITH JAVA'
+
+2022-06-30 01:04:37 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_/a_Selenium with Java' is: 'SELENIUM WITH JAVA'
+
+2022-06-30 01:04:37 - [TEST_STEP][PASSED] - out.println(result): null
+
+2022-06-30 01:04:39 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/task' .
+
+2022-06-30 01:04:39 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/task' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/task2" time="22.152" classname="Test Cases/task2" status="PASSED">
+         <system-out><![CDATA[2022-06-30 01:04:39 - [TEST_CASE][PASSED] - Test Cases/task2: Test Cases/task2
+
+2022-06-30 01:04:39 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-06-30 01:04:39 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-06-30 01:04:40 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-06-30 01:04:40 - [MESSAGE][INFO] - Action delay is set to 10,000 milliseconds
+
+2022-06-30 01:04:41 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-06-30 01:04:41 - [TEST_STEP][PASSED] - navigateToUrl("http://automationpractice.com/index.php"): Navigate to 'http://automationpractice.com/index.php' successfully
+
+2022-06-30 01:04:57 - [MESSAGE][PASSED] - Navigate to 'http://automationpractice.com/index.php' successfully
+
+2022-06-30 01:04:57 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-06-30 01:04:58 - [MESSAGE][PASSED] - Current window maximized
+
+2022-06-30 01:04:58 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Page_My Store/a_Cart0ProductProducts(empty)"), 0): Object 'Object Repository/Page_My Store/a_Cart0ProductProducts(empty)' is present
+
+2022-06-30 01:04:58 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2022-06-30 01:04:58 - [MESSAGE][PASSED] - Object 'Object Repository/Page_My Store/a_Cart0ProductProducts(empty)' is present
+
+2022-06-30 01:04:58 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Page_My Store/b_Cart")): Object 'Object Repository/Page_My Store/b_Cart' is visible
+
+2022-06-30 01:04:59 - [MESSAGE][PASSED] - Object 'Object Repository/Page_My Store/b_Cart' is visible
+
+2022-06-30 01:04:59 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Page_My Store/span_(empty)")): Object 'Object Repository/Page_My Store/span_(empty)' is visible
+
+2022-06-30 01:04:59 - [MESSAGE][PASSED] - Object 'Object Repository/Page_My Store/span_(empty)' is visible
+
+2022-06-30 01:05:01 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/task2' .
+
+2022-06-30 01:05:01 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/task2' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/task3" time="33.387" classname="Test Cases/task3" status="PASSED">
+         <system-out><![CDATA[2022-06-30 01:05:01 - [TEST_CASE][PASSED] - Test Cases/task3: Test Cases/task3
+
+2022-06-30 01:05:02 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-06-30 01:05:02 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-06-30 01:05:02 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-06-30 01:05:02 - [MESSAGE][INFO] - Action delay is set to 10,000 milliseconds
+
+2022-06-30 01:05:04 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-06-30 01:05:04 - [TEST_STEP][PASSED] - navigateToUrl("https://ourworldindata.org/explorers/coronavirus-data-explorer"): Navigate to 'https://ourworldindata.org/explorers/coronavirus-data-explorer' successfully
+
+2022-06-30 01:05:18 - [MESSAGE][PASSED] - Navigate to 'https://ourworldindata.org/explorers/coronavirus-data-explorer' successfully
+
+2022-06-30 01:05:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_COVID-19 Data Explorer - Our World in Data/button_I agree")): Object: 'Object Repository/Page_COVID-19 Data Explorer - Our World in Data/button_I agree' is clicked on
+
+2022-06-30 01:05:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_COVID-19 Data Explorer - Our World in Data/button_I agree' is clicked on
+
+2022-06-30 01:05:28 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Page_COVID-19 Data Explorer - Our World in Data/svg_Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan")): Object 'Object Repository/Page_COVID-19 Data Explorer - Our World in Data/svg_Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan' is visible
+
+2022-06-30 01:05:29 - [MESSAGE][PASSED] - Object 'Object Repository/Page_COVID-19 Data Explorer - Our World in Data/svg_Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan' is visible
+
+2022-06-30 01:05:29 - [TEST_STEP][PASSED] - mouseOver(findTestObject("Page_COVID-19 Data Explorer - Our World in Data/svg_Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan")): Object: 'Object Repository/Page_COVID-19 Data Explorer - Our World in Data/svg_Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan' is hovered
+
+2022-06-30 01:05:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_COVID-19 Data Explorer - Our World in Data/svg_Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan' is hovered
+
+2022-06-30 01:05:30 - [TEST_STEP][PASSED] - mouseOverOffset(findTestObject("Page_COVID-19 Data Explorer - Our World in Data/svg_Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan"), 20, 30): Object: 'Object Repository/Page_COVID-19 Data Explorer - Our World in Data/svg_Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan' is hovered using offset x = 20 and y = 30
+
+2022-06-30 01:05:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_COVID-19 Data Explorer - Our World in Data/svg_Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan' is hovered using offset x = 20 and y = 30
+
+2022-06-30 01:05:31 - [TEST_STEP][PASSED] - mouseOverOffset(findTestObject("Page_COVID-19 Data Explorer - Our World in Data/svg_Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan"), 20, 35): Object: 'Object Repository/Page_COVID-19 Data Explorer - Our World in Data/svg_Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan' is hovered using offset x = 20 and y = 35
+
+2022-06-30 01:05:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_COVID-19 Data Explorer - Our World in Data/svg_Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan' is hovered using offset x = 20 and y = 35
+
+2022-06-30 01:05:32 - [TEST_STEP][PASSED] - mouseOverOffset(findTestObject("Page_COVID-19 Data Explorer - Our World in Data/svg_Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan"), 20, 40): Object: 'Object Repository/Page_COVID-19 Data Explorer - Our World in Data/svg_Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan' is hovered using offset x = 20 and y = 40
+
+2022-06-30 01:05:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_COVID-19 Data Explorer - Our World in Data/svg_Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan' is hovered using offset x = 20 and y = 40
+
+2022-06-30 01:05:32 - [TEST_STEP][PASSED] - mouseOverOffset(findTestObject("Page_COVID-19 Data Explorer - Our World in Data/svg_Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan"), 10, 30): Object: 'Object Repository/Page_COVID-19 Data Explorer - Our World in Data/svg_Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan' is hovered using offset x = 10 and y = 30
+
+2022-06-30 01:05:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_COVID-19 Data Explorer - Our World in Data/svg_Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan' is hovered using offset x = 10 and y = 30
+
+2022-06-30 01:05:35 - [TEST_STEP][PASSED] - Video: Video recording for test case 'Test Cases/task3' .
+
+2022-06-30 01:05:35 - [MESSAGE][INFO] - Video recording for test case 'Test Cases/task3' .]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-06-30 01:04:01 - [TEST_SUITE][PASSED] - tasks: Test Cases/task3]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
