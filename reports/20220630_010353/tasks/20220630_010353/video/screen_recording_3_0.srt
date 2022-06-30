@@ -1,0 +1,36 @@
+1
+00:00:00,440 --> 00:00:02,325
+1. openBrowser("")
+
+2
+00:00:02,326 --> 00:00:16,544
+5. navigateToUrl("https://ourworldindata.org/explorers/coronavirus-data-explorer")
+
+3
+00:00:16,545 --> 00:00:27,076
+9. click(findTestObject("Object Repository/Page_COVID-19 Data Explorer - Our World in Data/button_I agree"))
+
+4
+00:00:27,077 --> 00:00:27,474
+13. verifyElementVisible(findTestObject("Page_COVID-19 Data Explorer - Our World in Data/svg_Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan"))
+
+5
+00:00:27,475 --> 00:00:29,307
+17. mouseOver(findTestObject("Page_COVID-19 Data Explorer - Our World in Data/svg_Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan"))
+
+6
+00:00:29,308 --> 00:00:29,889
+21. mouseOverOffset(findTestObject("Page_COVID-19 Data Explorer - Our World in Data/svg_Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan"), 20, 30)
+
+7
+00:00:29,892 --> 00:00:30,362
+25. mouseOverOffset(findTestObject("Page_COVID-19 Data Explorer - Our World in Data/svg_Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan"), 20, 35)
+
+8
+00:00:30,363 --> 00:00:30,824
+29. mouseOverOffset(findTestObject("Page_COVID-19 Data Explorer - Our World in Data/svg_Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan"), 20, 40)
+
+9
+00:00:30,825 --> 00:00:31,281
+33. mouseOverOffset(findTestObject("Page_COVID-19 Data Explorer - Our World in Data/svg_Feb 18, 2020Jun 28, 2022Feb 24, 2021Sep 12, 2021024681012141618United StatesGermanyItalyUnited KingdomFranceCanadaJapan"), 10, 30)
+

@@ -1,0 +1,24 @@
+1
+00:00:00,394 --> 00:00:03,686
+1. openBrowser("")
+
+2
+00:00:03,789 --> 00:00:33,980
+5. navigateToUrl("https://www.techlistic.com/p/selenium-assignments.html")
+
+3
+00:00:33,981 --> 00:00:34,157
+9. maximizeWindow()
+
+4
+00:00:34,158 --> 00:00:35,254
+13. mouseOver(findTestObject("Page_/a_Selenium"))
+
+5
+00:00:35,256 --> 00:00:35,834
+17. result = getText(findTestObject("Page_/a_Selenium with Java"))
+
+6
+00:00:35,835 --> 00:00:35,973
+21. out.println(result)
+

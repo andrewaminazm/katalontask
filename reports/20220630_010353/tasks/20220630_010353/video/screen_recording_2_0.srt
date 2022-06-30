@@ -1,0 +1,24 @@
+1
+00:00:00,444 --> 00:00:02,388
+1. openBrowser("")
+
+2
+00:00:02,389 --> 00:00:18,395
+5. navigateToUrl("http://automationpractice.com/index.php")
+
+3
+00:00:18,396 --> 00:00:18,575
+9. maximizeWindow()
+
+4
+00:00:18,577 --> 00:00:19,123
+13. verifyElementPresent(findTestObject("Page_My Store/a_Cart0ProductProducts(empty)"), 0)
+
+5
+00:00:19,125 --> 00:00:19,710
+17. verifyElementVisible(findTestObject("Page_My Store/b_Cart"))
+
+6
+00:00:19,711 --> 00:00:20,067
+21. verifyElementVisible(findTestObject("Page_My Store/span_(empty)"))
+
